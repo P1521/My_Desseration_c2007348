@@ -1,5 +1,6 @@
 # My_Desseration_c2007348
 The Effectiveness of Technical Analysis In Predicting Stock Market Trends
+
 An application of technical analysis techniques to historical stock price data for Apple Inc. (AAPL) is obvious in the study. Several findings and insights may be derived from the work
 
 Data Preprocessing: Care was taken to verify that the data was correctly structured and consistent. This dedication to data quality is consistent with the core principles of technical analysis, where data integrity has a substantial impact on the accuracy of future forecasts and insights.
